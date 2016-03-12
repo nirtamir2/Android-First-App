@@ -2,6 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.nir.myapplication">
 
+
+
+    <!--
+    nir here is the api request:
+    https://maps.googleapis.com/maps/api/directions/json?origin=32.020357,%2034.748683&destination=32.020948,%2034.749289&key=AIzaSyDPk34kBvy1Feune0dmokquqdqRARr2Fm8&mode=walking
+    -->
+
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
